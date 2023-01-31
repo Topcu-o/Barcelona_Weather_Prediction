@@ -3,7 +3,8 @@ Predicting Barcelona weather in 2022 using dataset 1970 to 2023
 
 Data downloaded from: https://www.ncdc.noaa.gov/cdo-web/search
 
-Column names:
+#### Column names:
+
   PRCP: Precipitation (mm)
   
   SWWD: Snow depth (mm)
